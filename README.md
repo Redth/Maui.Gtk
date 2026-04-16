@@ -1,4 +1,9 @@
-# Platform.Maui.Linux.Gtk4
+## Platform.Maui.Linux.Gtk4
+
+# MOVED TO: [dotnet/maui-labs](https://github.com/dotnet/maui-labs/tree/main/platforms/Linux.Gtk4)
+Thanks for the short lived contributions here, but this code has now been moved to [dotnet/maui-labs](https://github.com/dotnet/maui-labs/tree/main/platforms/Linux.Gtk4) in order for it to live on as a community effort and experiment for .NET MAUI with hopefully more attention it deserves!
+
+-----------------------------------
 
 A community-driven .NET MAUI backend for Linux, powered by **GTK4**. Run your .NET MAUI applications natively on Linux desktops with GTK4 rendering via [GirCore](https://github.com/gircore/gir.core) bindings.
 
